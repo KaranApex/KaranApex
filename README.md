@@ -19,7 +19,6 @@
 [![](https://visitcount.itsvg.in/api?id=KaranApex&icon=6&color=10)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Treat me) [![Patreon](https://www.patreon.com/KaranApex) 
+Treat me → https://www.patreon.com/KaranApex
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
