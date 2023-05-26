@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ❤️ About Me:
 🔭 I’m currently working on a python project<br>👯 I’m looking to collaborate on some public tasks<br>🤝 I’m looking for help with my coding questions<br>🌱 I’m currently started learning python <br>💬 Ask me about any thing related to life<br>⚡ Fun fact → pretty lazy but enough productive
 
 
